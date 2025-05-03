@@ -17,8 +17,25 @@ This is a front-end clone of the **Sundown Studio** website, built using **React
 - Framer Motion
 
 ## 📸 Preview
+# Project Screenshots
 
-![Screenshot](./src/assets/screenshot.png) <!-- Optional: add a screenshot of your project -->
+## Screenshot 1
+![Screenshot 1](src/assets/Screenshot1.png)
+
+## Screenshot 2
+![Screenshot 2](src/assets/Screenshot2.png)
+
+## Screenshot 3
+![Screenshot 3](src/assets/Screenshot3.png)
+
+## Screenshot 4
+![Screenshot 4](src/assets/Screenshot4.png)
+
+## Screenshot 5
+![Screenshot 5](src/assets/Screenshot5.png)
+
+
+
 
 ## 📂 Installation
 
