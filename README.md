@@ -1,17 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
+# Sundown Studio Clone 🌇
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a front-end clone of the **Sundown Studio** website, built using **React**, **Tailwind CSS**, and **Vite**. It features custom animations and smooth UI transitions.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive layout
+- Smooth animations using Framer Motion
+- Styled with Tailwind CSS
+- Clean, modern design
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# sundown-studio-clone
-A front-end clone of the Sundown Studio website built with modern web technologies. This project focuses on replicating smooth animations, layout, and responsive design for learning purposes.
->>>>>>> f832bc697f67741abe23052b32a73611cad8c85b
+- React
+- Tailwind CSS
+- Vite
+- Framer Motion
+
+## 📸 Preview
+
+![Screenshot](./src/assets/screenshot.png) <!-- Optional: add a screenshot of your project -->
+
+## 📂 Installation
+
+```bash
+git clone https://github.com/Aarru-jadhav/Sundown-studio-clone.git
+cd Sundown-studio-clone
+npm install
+npm run dev
