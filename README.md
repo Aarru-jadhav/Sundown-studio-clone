@@ -5,7 +5,7 @@ This is a front-end clone of the **Sundown Studio** website, built using **React
 ## 🚀 Features
 
 - Responsive layout
-- Smooth animations using Framer Motion
+- Smooth animations 
 - Styled with Tailwind CSS
 - Clean, modern design
 
