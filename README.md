@@ -14,7 +14,7 @@ This is a front-end clone of the **Sundown Studio** website, built using **React
 - React
 - Tailwind CSS
 - Vite
-- Framer Motion
+
 
 ## 📸 Preview
 # Project Screenshots
